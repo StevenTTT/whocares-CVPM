@@ -1,0 +1,109 @@
+Name			Steven (Di) Tian
+Address 		102C/3 Meikle Place, Ryde NSW 2112
+Contact Numbers	0426 590 210  
+Email address		steedtiandi@hotmail.com  
+
+Summary
+An ambitious Senior Product Manager with 6+ years of product / project management experience and 7 years of embedded system development experience, blending strategy definition, product planning, market analysis, competitive products analysis with strong interpersonal skills.
+σ	13+ years in consumer electronics, digital television broadcasting, OTT, WiFi, Bluetooth 
+σ	10+ years working in an international environment regarding international business 
+σ	7 years in development and technical support in embedded software, coding in C / C++ 
+σ	6+ years product / project management of consumer electronics products, including DTV, Settop box, mobile phone, WiFi router and PLC, strategy definition, roadmap shaping, go-to-market analysis, product delivery and operation
+σ	Managed projects up to $300M
+
+Objective
+To apply my 13+ years of consumer electronics experience and software and hardware knowledge to design and develop smart devices for human beings.
+Qualifications & Certifications
+σ	Master of Signal and Information Processing, Tianjin University, 2004
+σ	Bachelor of Electronic and Information Technology, Tianjin University, 2001
+σ	PMP certified, 2014
+σ	Agile development, including using JIRA, Clearcase and Git. 
+σ	CRM experience. 
+σ	Psychological consultant certified, 2010 (interpersonal communication, empathy & listening skills)
+
+Work Experience
+1.	Senior Product Manager, LeEco Electronic Technology, from Mar 2015 to Jul 2017 
+Summary
+Defined strategy, analyzed market, planned products and shaped roadmap for smart TVs, smart sound bars and other accessories, for markets of USA, India, Russia, Southeast Asia and West Europe.  
+Responsibilities
+σ	Led and supervised overseas product planning team, organized product planning of Smart TV and smart sound bar and other smart devices. 
+σ	Analyzed TV market (IHS, NPD, GFK data), analyzed competitive products and created product strategies for markets of USA, India, Russia, Southeast Asia and West Europe and shaped regional product roadmaps according to global strategy and roadmap.
+σ	Liaised with R&D team about technical details, and contributed to software development in Agile development. 
+σ	Worked in a matrix organization, managed and operated TV life cycle, including cross-functional communication with teams of supply chain, engineering, design, sales and marcom team.
+σ	Monitored online and offline sales and contributed to the operation of Internet/smart TV, like advertisement of big screen (TV), video games and shopping on big screen.
+σ	Investigated solutions of latest technologies related to television and smart home, such as TV Soc solutions, WiFi, Bluetooth, RF4CE / Zigbee, video and audio technologies, like HDR10, Dolby Vision, Dolby Audio, Dolby Atmos and DTS.
+
+Achievements
+σ	Contributed to achieve Google CTS/GTS and Netflix certification of smart TV based on Mstar TV Soc and finished the certification two months earlier than a normal period.
+σ	Co-working with USA product team, I initiated the integration of Google assistant to smart sound bar as an IoT entrance for smart home.
+σ	Organized investigation of IoT solutions for smart home centered on TVs, like home control dongle on TV, RF4CE remote control, lightening control, door control and other smart home accessories.
+
+2.	Project Manager, Xiaomi Digital and Technology, from Apr 2014 to Jan 2015 
+Summary
+Responsible for wireless accessory products for smart TV, OTT box or mobile phone, including Bluetooth remote control, Bluetooth 3D glasses, Bluetooth sound box and Bluetooth game console. Co-worked with video game PM to do market analysis of TV video games and game consoles. Worked with R&D team to investigate and select Bluetooth or WiFi solutions for multimedia products.  
+Responsibilities
+σ	Managed product life cycle, including definition, design, development, engineering, production and shipment on line at www.mi.com.
+σ	Led cross functional communication including design, cost control, delivery and sales online, responsible for the product launch plan activities, providing technical and commercial support to online sales at www.mi.com.
+σ	Made product development and test plans, arranged software and hardware R&D resources to achieve the product goals. 
+σ	Led features drived Agile development for software features, such as User Interface of game console and Bluetooth 3D glasses.
+
+Achievements
+σ	Successfully delivered remote control, game console, 3D glasses and Bluetooth sound box. 
+σ	Investigated and chose wireless solutions for remote control and game console, managing trade-off to meet financial and technical goals.
+
+3.	Senior FAE /Program Manager, Broadcom, from Jan 2006 to Feb 2011 
+Summary
+Provided and organized technical support for multimedia broadcasting products, wireless products and broadband access products, such as DTV, STB, mobile phone, cable modem, Bluetooth, media WiFi, PLC and xDSL.  
+Responsibilities
+σ	Led and developed the China Distributions’ technical support resources (FAE team) to support sales and business growth in China. Developed the FAE competency matrix and planned competency improvement.
+σ	Created the China Distributions’ customer support strategy according to the regional market and customer needs and aligned well with other departments and stakeholders.
+σ	Provided both pre-sales and design-in technical support to customers, closely worked with them about product development and technical requirements.
+σ	Managed key projects and liaised with customers about their development schedules. 
+
+Achievements
+σ	Set up the rewards and recognition programs to motivate the team, and assure each team member had a development plan which includes the competency improvement plan based on the business growth requirement.  
+σ	Arranged regular review meetings and ensured all stakeholders were informed of decisions, changes and progress. Delivered accurate and timely report to Broadcom and customers.
+σ	Managed program inside and outside Broadcom to achieve customer projects.
+
+4.	Software Engineer, Broadcom, from Mar 2011 to Nov 2013 
+Summary
+Developed and maintained software of reference platforms of digital television and settop box in C/C++ language, and provided technical support to customers from Japan, Korea, Brazil and China.  
+Responsibilities
+σ	Designed and developed drivers for EEPROM based on communication on I2C bus, so that customers were able to program EDID on EEPROM for their DTV. Created the user manual.  
+σ	Developed drivers for HDMI Receiver on DTV reference design and used state machine to implement the process of HDMI connection and HDCP authentication.    
+σ	Designed and developed an eye-diagram tool to monitor HDMI signal quality on TV screen. Implemented data collection from registers of DTV Soc and designed algorithm to draw the eye-diagram on TV UI.  
+σ	Designed and developed auto adjustment of PC input on TV platform using Broadband Studio (Broadcom development tool to debug hardware). 
+σ	Ported drivers of settop box from Linux to Android OS and integrated WiFi and Bluetooth module into settop box reference design.  
+σ	Implemented the splash screen feature on settop box in boot loader. 
+
+Achievements
+σ	Supported onsite LG in Korea to help do pretest for the HDMI Simplay test certification. Directly worked with LG engineer on their DTV platform to speed up certificating process.  
+σ	Participated in bringing up new reference design boards in charge of video input moduels. 
+σ	Developed OpenTV middleware interface layer drivers, which control hardware modules to meet middleware interface requests, and provided on-site support to OpenTV to speed up their OpenTV middleware release schedule. 
+σ	Optimized Linux boot up process to get a quicker settop box boot up.
+
+5.	Software Engineer, Digital TV Industrial Alliance, from Mar 2004 to Jan 2006 
+Summary
+Developed software application for DVB-C settop box and ported Conditional Access and gained CA certification on Linux real time OS. 
+Responsibilities
+σ	Designed and developed program list part of application of settop box, including parsing Service Information from Transport Stream. 
+σ	Completed Conditional Access module porting and gained certification, including developing the interfaces for both drivers and applications.  
+σ	Implemented Video On Demand application on settop box by combining TCP/IP and digital video broadcasting technologies. 
+σ	Maintained and debugged drivers for smart card and tuner. 
+
+Achievements
+σ	Debugged and optimized smart card reading drivers. 
+σ	Designed an algorithm to process message queue of entitling messages to avoid message missing problem. 
+
+Skills
+σ	Product management, product planning, strategy definition and roadmap shaping
+σ	Market analysis and competitive products analysis
+σ	Cost/budget control, schedule and risk management, resource planning
+σ	Embedded SW&HW development and C, C++ and Java
+σ	GNU/Linux development platform and tools. 
+σ	Internet / TCP/IP / WiFi / Bluetooth / Zigbee / Android
+σ	Oral presentation, cross functional communication and collaboration
+σ	Teamwork experience
+
+Referees
+σ	Available on request
